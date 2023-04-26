@@ -1,0 +1,30 @@
+## 任务清单
+
+* ⌛️ [英语概括](https://www.bilibili.com/read/cv19708791)
+* ❌ [时态](https://www.bilibili.com/read/cv19708791)
+* ❌ 动词时态
+* ❌ 动词语气(虚拟语气)
+* ❌ 非谓语动词
+* ❌ 独立主格
+* ❌ 助动词&情态动词
+* ❌ 系动词
+* ❌ [使役动词](https://www.bilibili.com/read/cv19735146)
+* ❌ [从句](https://www.bilibili.com/read/cv20263858)
+* ❌ [冠词](https://www.bilibili.com/read/cv19759719)
+* ❌ [介词](https://www.bilibili.com/read/cv19841316)
+* ❌ [名词](https://www.bilibili.com/read/cv19889567)
+* ❌ [代词](https://www.bilibili.com/opus/730246639251357696)
+* ✅️ [数词](./number.md)
+* ❌ [形容词](https://www.bilibili.com/read/cv19957309)
+* ❌ [副词](https://www.bilibili.com/read/cv19997768)
+* ❌ [连词](https://www.bilibili.com/read/cv20103156)
+* ❌ [叹词](https://www.bilibili.com/read/cv20103156)
+* ❌ [限定词](https://www.bilibili.com/read/cv20103156)
+* ❌ 构词法
+* ❌ 句子成分&分类
+* ❌ [被动](https://www.bilibili.com/read/cv20547097)
+* ❌ 倒装
+* ❌ [强调](https://www.bilibili.com/read/cv21238512)
+* ❌ 省略
+* ❌ 主谓一致
+* ❌ 英文标点
